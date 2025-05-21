@@ -1,0 +1,9 @@
+# Ignore data and notebook checkpoints
+data/
+*.csv
+.ipynb_checkpoints/
+
+# Ignore venv and caches
+venv/
+__pycache__/
+*.pyc
